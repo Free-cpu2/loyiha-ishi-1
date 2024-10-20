@@ -1,0 +1,168 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: inherit;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "Inter", sans-serif;
+}
+
+.img1 {
+  width: 175px;
+  height: 47px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 85%;
+}
+select {
+  width: 80px;
+  height: 39px;
+  border: none;
+}
+.img2 {
+  width: 30px;
+  height: 30px;
+}
+.div1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 45px;
+}
+
+.div3 {
+  display: flex;
+}
+.img3 {
+  width: 150px;
+  height: 40px;
+}
+.div2 {
+  width: 650px;
+
+  border-radius: 50px;
+  margin-left: 395px;
+  border: 1px solid #dedbdb;
+}
+.h2 {
+  color: #0e0d5d;
+  margin-top: 131px;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58.09px;
+  text-align: center;
+}
+section {
+  padding-top: 46px;
+}
+.div4 {
+  display: flex;
+  justify-content: center;
+}
+.img3 {
+  width: 150px;
+  height: 40px;
+}
+.p {
+  width: 208px;
+  height: 29px;
+  color: #f0400f;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29.05px;
+}
+.div4 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 73px;
+}
+.div5 {
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+.input1 {
+  width: 533px;
+  height: 70px;
+  border-radius: 20px;
+  border: 1px solid #75757530;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.05px;
+  padding-left: 51px;
+}
+.input2 {
+  width: 533px;
+  height: 70px;
+  border-radius: 20px;
+  border: 1px solid #75757530;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.05px;
+  padding-left: 51px;
+}
+.div6 {
+  margin-top: 39px;
+  display: flex;
+  justify-content: center;
+}
+.div7 a {
+  color: #000000a3;
+  margin-top: 18px;
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.05px;
+}
+.button1 button {
+  background: #f69e86;
+  border-radius: 20px;
+  padding: 17px 22px;
+  border: none;
+  color: white;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29.05px;
+}
+.button1 {
+  display: flex;
+  justify-content: end;
+  padding-right: 58px;
+  padding-bottom: 37px;
+  padding-top: 31px;
+}
+.div8 button {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 33.89px;
+
+}
+
+.div8 button:focus {
+  background-color: white;
+}
+.div8 {
+  background-color: #f5f5f5;
+  width: 533px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  
+
+
+}
+.div9 {
+  display: flex;
+  justify-content: center;
+}
