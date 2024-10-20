@@ -144,7 +144,6 @@ section {
   font-size: 28px;
   font-weight: 500;
   line-height: 33.89px;
-
 }
 
 .div8 button:focus {
@@ -158,11 +157,12 @@ section {
   align-items: center;
   justify-content: space-between;
   padding: 10px 20px;
-  
-
-
 }
 .div9 {
   display: flex;
   justify-content: center;
+}
+header {
+  border-bottom: 2px solid #dedbdb;
+  padding-bottom: 48px;
 }
